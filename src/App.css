@@ -1,0 +1,9 @@
+
+#root {
+  /* Ensure the app takes up the full viewport height on mobile */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* You can add more global styles here if needed */
